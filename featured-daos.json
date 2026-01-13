@@ -3,21 +3,21 @@
     "name": "RMC Governance",
     "description": "The DAO elected to manage staking-derived funds dedicated to recovery initiatives, focused on restoring and stabilizing depegged assets across the network through transparent, community-governed actions.",
     "logo": "https://amethyst-blank-puma-863.mypinata.cloud/ipfs/QmVuVAoY3p8wZ1iqBxQvSqbpUZ3rJdYH49zKt3H7Kfd1gx",
-    "network": "Harmony",
+    "network": "harmony",
     "overrideUrl": "https://governance.country/dao/harmony-mainnet/0x4e4841FD33b0AB482C657b1e99F96e4A33E61053/dashboard"
   },
   {
     "name": "Developers DAO",
     "description": "A DAO responsible for generating dApp development requests for the Harmony network, evaluating proposals, and executing approved projects with community validation and oversight.",
     "logo": "https://amethyst-blank-puma-863.mypinata.cloud/ipfs/QmS9mFvwjxiQbQu3E39EPA2s6b4EXEA4ooFP9uc8Fyfyvk",
-    "network": "Harmony",
+    "network": "harmony",
     "overrideUrl": "https://governance.country/dao/harmony-mainnet/0x09aeF58ba8FB4277E1c4B41290De2028B30e141e/dashboard"
   },
   {
     "name": "Think in Coin Governance",
     "description": "Think in Coin DAO is a decentralized governance model where the community collectively and transparently decides the direction of the ecosystem. ",
     "logo": "https://amethyst-blank-puma-863.mypinata.cloud/ipfs/QmQoF4TmMvbCL1xH8TYgF1dFsp12Y8LeW7feYiWuCJ1vWp",
-    "network": "Harmony",
+    "network": "harmony",
     "ens": "thinkincoin.eth",
     "address": "0x76B83B6148ccA891D768cE3129585F25d0104783"
   }
