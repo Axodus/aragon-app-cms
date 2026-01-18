@@ -11,14 +11,21 @@
     "description": "A DAO responsible for generating dApp development requests for the Harmony network, evaluating proposals, and executing approved projects with community validation and oversight.",
     "logo": "https://amethyst-blank-puma-863.mypinata.cloud/ipfs/QmRyHsHPg8MqjXoD3iu1CMquTb2N1Z6wKgAuUocG3vmjo2",
     "network": "harmony-mainnet",
-    "address": "0x09aeF58ba8FB4277E1c4B41290De2028B30e141e"
+    "address": "0x5AceA982a17F0822312D0B7A753168274F0E2577"
   },
-  {
+  { /*
     "name": "Think in Coin Governance",
     "description": "Think in Coin DAO is a decentralized governance model where the community collectively and transparently decides the direction of the ecosystem. ",
-    "logo": "https://amethyst-blank-puma-863.mypinata.cloud/ipfs/QmQoF4TmMvbCL1xH8TYgF1dFsp12Y8LeW7feYiWuCJ1vWp",
+    "logo": "https://amethyst-blank-puma-863.mypinata.cloud/ipfs/",
     "network": "harmony-mainnet",
-    "address": "0x76B83B6148ccA891D768cE3129585F25d0104783"
+    "address": "0x07b2842F19034d6392712a808C62510209f6439F"
+  */ },
+  {
+    "name": "UtillityDAO",
+    "description": "Bringing Utility to the Harmony ecosystem. Creators of uONE, a liquid staking solution, opening up the liquidity of Harmony's Open Consensus to the DeFi Space. UtilityDAO Validator supporting the network since q1 2026 ",
+    "logo": "https://amethyst-blank-puma-863.mypinata.cloud/ipfs/",
+    "network": "harmony-mainnet",
+    "address": "0x07b2842F19034d6392712a808C62510209f6439F"
   },
   {
     "name": "Harmony Mainnet",
